@@ -1,5 +1,5 @@
 # House_price_prediction 
-Predict price of house using Linear regression
+Predict price of house using # Linear regression
 
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
