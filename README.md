@@ -13,9 +13,9 @@ Then use this trained model along with test data and it will show the resultant 
 # Prerequisites
  Require following libraries along with Python:
  
-Scikit-learn
-Numpy
-Pandas
+Scikit-learn,
+Numpy,
+Pandas,
 Pickle
 
 # Installing
@@ -23,8 +23,11 @@ Pickle
 These libraries are avilable in pypi. Hnece it can be downloaded and installed with pip as follows:
 
 pip install sklearn
+
 pip install numpy
+
 pip install pandas
+
 pip install pickle
 
 # Deployment
